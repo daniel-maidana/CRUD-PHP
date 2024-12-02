@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(175, 175, 175);
+}
+
+
+.carousel, .carousel-inner > .item > img {
+    
+    width: 50%;
+  }
+
+
+  body{
+    background-color: #0A5EB0;
+  }
+
+  label, footer{
+    color:white;
+  }
+
+  h1{
+    background-color: black;
+
+  }
+
+a{
+    color: white;
+}
+
+button{
+    background-color: #0A97B0;
+}
+.baja{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    columns: 2;
+    text-align: left;
+    font-size: 27px;
+}
+
+.formuBaja{
+    text-align: center;
+    font-size: 15px;
+   
+}
+
+.button-container {
+    text-align: center;
+}
+
+.pretty-button {
+    background-color: #0A97B0;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+.pretty-button:hover {
+    background-color: #087a8c;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+}
+
+.pretty-button:active {
+    transform: translateY(2px);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+.mb-3{
+    font-size: 23px;
+}
+.form-control{
+    font-size: 18px;
+}
+

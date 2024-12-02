@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(226, 227, 228);
+    text-align: center;
+}   
+h1{
+    text-align: left;
+    color: black;
+}
+h2{
+    text-align: left;
+    color: black;
+}
+footer p{
+    color: black;
+    font-size: 20px;
+}
+ a{
+    text-align: left;
+}
